@@ -1,8 +1,10 @@
-##############################
-# Last Updated: 2023-03-24
-##############################
+########################################
+# Last Updated: 2023-03-25
+########################################
 
+# Name: Disconnect.me - Simple Ad
 # Source: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+# Last Updated: 2023-03-25
 101com.com
 101order.com
 123found.com
@@ -2704,3 +2706,41 @@ zeusclicks.com
 zintext.com
 zmedia.com
 zumobi.com
+
+# Name: Disconnect.me - Simple Tracking
+# Source: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+# Last Updated: 2023-03-25
+adjust.io
+airbrake.io
+appboy.com
+appsflyer.com
+apsalar.com
+bango.combango.org
+bango.net
+basic-check.disconnect.me
+bkrtx.com
+bluekai.com
+bugsense.com
+burstly.com
+chartboost.com
+count.ly
+crashlytics.com
+crittercism.com
+custom-blacklisted-tracking-example.com
+do-not-tracker.org
+eviltracker.net
+flurry.com
+getexceptional.com
+inmobi.com
+jumptap.com
+localytics.com
+mixpanel.com
+mobile-collector.newrelic.com
+mobileapptracking.com
+playtomic.com
+stathat.com
+supercell.net
+tapjoy.com
+trackersimulator.org
+usergrid.com
+vungle.com
