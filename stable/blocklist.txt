@@ -1,22 +1,12 @@
 ########################################
 # Last Updated: 2023-03-26
 ########################################
-# Name: AdGuard CNAME disguised trackers list
-# Homepage: https://github.com/AdguardTeam/cname-trackers
-# Source: https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# Last Updated: 2023-03-25
-########################################
 # Name: Disconnect.me - Simple Ad
 # Source: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 # Last Updated: 2023-03-25
 ########################################
 # Name: Disconnect.me - Simple Tracking
 # Source: https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Last Updated: 2023-03-25
-########################################
-# Name: Steven Black - hosts
-# Homepage: https://github.com/StevenBlack/hosts
-# Source: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # Last Updated: 2023-03-25
 ########################################
 
