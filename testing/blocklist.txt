@@ -1,5 +1,5 @@
 ########################################
-# Last Updated: 2023-03-27 22:15 UTC
+# Last Updated: 2023-03-27 22:30 UTC
 ########################################
 # Name: AdAway - Default Blocklist
 # Hompage: https://github.com/AdAway/adaway.github.io/
@@ -2029,7 +2029,6 @@
 043config.net.daraz.com
 043-europewest.net.daraz.com
 043k0s.net.daraz.com
--043ns11.net.daraz.com
 0445.lookinews.com
 0449.lookinews.com
 044f8ad3e9.3482f0c95a.com
@@ -4557,7 +4556,6 @@
 16i6nuuc2ej.koelewijn.nl
 16.lookinews.com
 16-marketing.nautiluslib-ht-0.net.daraz.com.net.daraz.com
--16marketing.net.daraz.com
 16-partner.00d900000020xcyeay.net.daraz.com.net.daraz.com
 16-partner.60-marketing.net.daraz.com.net.daraz.com
 16-partner-skins.csr10.net.daraz.com.net.daraz.com
@@ -13876,9 +13874,6 @@ access.insperex.com
 access.iprolive.com
 access.ipro.net
 access.juicyteenporn.com
--access-logsacc-sandbox.net.daraz.com
--access-logs-active.net.daraz.com
--access-logsactive.net.daraz.com
 accessoryad.com
 accesspartner.net.daraz.com
 access.sunpower.com
@@ -27797,7 +27792,6 @@ azure-cust01-cucm-sub-07-cl6.int.net.daraz.com.net.daraz.com
 azure.develop-lib-ht-4.net.daraz.com.net.daraz.com
 azure.devops-r-oa-5.net.daraz.com.net.daraz.com
 azure.dns5.freshegg.production.net.daraz.com.net.daraz.com
--azure-freya.net.daraz.com
 azure-freya.tpe-csr11.net.daraz.com.net.daraz.com
 azure-gitlabcar18.net.daraz.com.net.daraz.com
 azure.k8s-prd.r-is-8-2.net.daraz.com.net.daraz.com
@@ -32393,7 +32387,6 @@ car15.legacy.net.daraz.com.net.daraz.com
 car16.jenkins.net.daraz.com.00d2e000001gna7uao.net.daraz.com
 car20.net.daraz.com.net.daraz.com
 car20.net.daraz.com.r-es-1.adm.net.daraz.com
--car2101-echo-tls.net.daraz.com
 car21-10-r-oa-1-1-r-is-1-2-cart.net.daraz.com
 car21-10-r-oa-1a.net.daraz.com
 car21-10-r-oa-1apac.lib-oa-1.net.daraz.com
@@ -32403,7 +32396,6 @@ car21-10-r-oa-1.emailvisioncf23region.eng.net.daraz.com
 car21-10-r-oa-1manage.lib-oa-1-admin8-api-docscsr41.net.daraz.com
 car21-10-r-oa-1ns.cloudfront.emailvision.net.daraz.com
 car21-10-r-oa-1ns.www.partner-pay.net.daraz.com
--car213apropmdeizy9vjf.net.daraz.com
 car21.cloudapp.044fa85c01ff2879502a5.net.daraz.com.net.daraz.com
 car21.cloudapp-auth70.net.daraz.com.net.daraz.com
 car21.cloudapp-skinscar81.net.daraz.com.net.daraz.com
@@ -33948,7 +33940,6 @@ chefb.ns.emailvision.support.dns2.freshegg.net.daraz.com.net.daraz.com
 chef.bucketns8.cl.bellsouth.net.daraz.com.net.daraz.com
 chef.emailvision.1.net.daraz.com
 chef.getmenoo.com
--chef.net.daraz.com
 chefns2.cl.bellsouth.net.daraz.com.net.daraz.com
 chef-ssl.net.zooplus.it
 chelick.net				
@@ -34704,7 +34695,6 @@ clientmetrics.kik.com
 clientmetrics-pa.googleapis.com
 client.midosoo.com
 client-nautiluslib-ht-2.net.daraz.com.net.daraz.com
--client.net.daraz.com
 client.net.daraz.com.emailvision.eng.net.daraz.com
 client.online.sandyspringbank.com
 client-pagecsr20.net.daraz.com.net.daraz.com
@@ -34899,7 +34889,6 @@ cloudads.net
 cloudapi.imrworldwide.com
 cloudapp-car10-elasticbeanstalk-ns3.twtelecom.net.daraz.com.net.daraz.com
 cloudapp-car10.kubernetes-ns6.cl.bellsouth.net.daraz.com.net.daraz.com
--cloudapp-car10.net.daraz.com
 cloudapp-car10-oldcsr41.net.daraz.com.net.daraz.com
 cloudapp-car15.net.daraz.com.00d200000007ytxeam.net.daraz.com
 cloudapp-car46.net.daraz.com.w-htgb-a.v1.net.daraz.com
@@ -40498,7 +40487,6 @@ demo.lib-oa-2.323seks.net.daraz.com.net.daraz.com
 demolocalhost.testbed.lib-ht-2.net.daraz.com.net.daraz.com
 demon1.linksummary.com
 demon2.linksummary.com
--demo.net.daraz.com
 demonews.us.intellitxt.com
 demo.opscsr11.net.daraz.com.net.daraz.com
 demoq.use-trade.com
@@ -69766,9 +69754,6 @@ prod.tracking.refinitiv.com
 producecopy.com
 product.fidormarket.com
 productinfo.inovalon.com
--production10537981.net.daraz.com
--production20151231-1.net.daraz.com
--productionacc.net.daraz.com
 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 production-cmp.isgprivacy.cbsi.com
 production-link-ccontact.focuscura.com
@@ -83730,7 +83715,6 @@ t.mowmore.com
 tmp6.2ch.net
 tm.paysafecard.com
 t.mplxtms.com
--tmp.net.daraz.com
 tm.production.eu1.tmfp.klarna.net
 tm.promotion-cdn.com
 tm.regions.com
