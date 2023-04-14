@@ -1,5 +1,5 @@
 ########################################
-# Last Updated: 2023-04-11 21:19 UTC
+# Last Updated: 2023-04-14 20:10 UTC
 ########################################
 # Name: AdAway - Default Blocklist
 # Hompage: https://github.com/AdAway/adaway.github.io/
@@ -56,12 +56,15 @@
 # Name: Peter Lowe - Hosts
 # Hompage: https://pgl.yoyo.org/
 # Source: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
-# Last Updated: 2023-04-04
+# Last Updated: 2023-04-14
 ########################################
 # Name: Steven Black - hosts
 # Homepage: https://github.com/StevenBlack/hosts
 # Source: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Last Updated: 2023-04-03
+# Last Updated: 2023-04-13
+########################################
+# Name: Custom Block List
+# Last Updated: 2023-04-14
 ########################################
 000001.net.daraz.com
 000-038asset.net.daraz.com
@@ -3014,7 +3017,6 @@
 123-emailvision.000-609.net.daraz.com
 123.fluxads.com
 123found.com
-123freeavatars.com
 123go.com
 123go.net
 123greetings.com	
@@ -20108,6 +20110,7 @@ ads.zeusclicks.com
 ads.zone-media.com
 ads.ztod.com
 ads.zynga.com
+adt598.com
 adtactics.com
 adtag.ad.smaato.net
 adtag.asiaone.com
@@ -40878,7 +40881,6 @@ e.dtscout.com
 eduardorodrigues.adv.br
 edu.brenthaven.com
 education.brettdanko.com
-educationdynamics.com
 educationfirst.tt.omtrdc.net
 education.graduateprogram.org
 education.lifelearn.com
@@ -42075,6 +42077,7 @@ es.zettle.com
 etahub.com
 e.targetfuel.com
 etargetnet.com
+et.educationdynamics.com
 etemis.com
 eten-users.us.intellitxt.com
 etereurm.org
@@ -50042,7 +50045,6 @@ idb.hitbox.com
 idbkfy.kango-roo.com
 idc.com.ua
 id-cdn.effectivemeasure.net
-___id___.c.mystat-in.net
 idcounter.com
 id.cxense.com
 iddiction.com
@@ -54429,7 +54431,6 @@ libs.lavanetwork.net
 libs.outbrain.com
 lib.vmweb.net
 licasd.com
-licensing.bitmovin.c
 licensinginsights.ascap.com
 liczniki.org
 li.dailycaller.com
@@ -60663,7 +60664,6 @@ netadclick.com
 netads.hotwired.com
 netaffiliation.com
 netagent.cz
-_.net.asambeauty.com
 netbulvar.eu
 netcatkit.com
 net.cleverjp.com
@@ -61966,6 +61966,7 @@ off.freeze.com
 office365-eu-update.com
 office365-us-update.com
 office.ad1.ru
+officehomeblobs.blob.core.windows.net
 office.officenet.co.kr
 officer.us.intellitxt.com
 officeworks.tt.omtrdc.net
@@ -71620,7 +71621,6 @@ s.inspectelement.co
 sinuatemedia.com
 si.nuggad.net
 sionicmedia.com
-_sips._sctp.net.daraz.com
 sirdexs.com
 sirinlabs.co
 sirin-labs.com
@@ -83559,6 +83559,7 @@ uzd1.madeindesign.com
 v040419.badjojo.com
 v0.extreme-dm.com
 v10c.events.data.microsoft.com
+v10.events.data.microsoft.com
 v10.xmlsearch.miva.com
 v16.56.com
 v1.addthis.com
@@ -85325,6 +85326,7 @@ widget.criteo.com
 widget.crowdignite.com
 widget.da1.vip.prod.criteo.com
 widget.da.us.criteo.com
+widget.educationdynamics.com
 widget.engageya.com
 widget.eu.criteo.com
 widget.fitanalytics.com
@@ -85649,6 +85651,7 @@ worm.paulstamatiou.com
 worriednumber.com
 worry-free-savings.com
 wor.wordtheminer.com
+wota-tournament.com
 wourib.silux.rs
 wovzcy.meo.pt
 wowanalytics.co.uk
