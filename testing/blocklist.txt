@@ -1,5 +1,5 @@
 ########################################
-# Last Updated: 2023-04-14 20:10 UTC
+# Last Updated: 2023-05-24 02:13 UTC
 ########################################
 # Name: AdAway - Default Blocklist
 # Hompage: https://github.com/AdAway/adaway.github.io/
