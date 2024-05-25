@@ -1,8 +1,8 @@
 ########################################
-# Last Updated: 2024-05-25 02:23 UTC
+# Last Updated: 2023-11-15 01:20 UTC
 ########################################
 # Name: Custom Block List
-# Last Updated: 2024-05-25
+# Last Updated: 2024-01-24
 ########################################
 ||btntls.pl^
 ||dioprl.pl^
@@ -16,8 +16,4 @@
 ||vistvx.pl^
 ||voltss.pl^
 ||webwave.dev^
-####
-||bakerstreetfinance.tv^
-||boawgr.pl^
-||chefs-kitchen.co.uk^
-||johncornell.com^
+
