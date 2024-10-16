@@ -2,7 +2,7 @@
 # Last Updated: 2024-05-25 02:23 UTC
 ########################################
 # Name: Custom Block List
-# Last Updated: 2024-05-25
+# Last Updated: 2024-09-15
 ########################################
 ||btntls.pl^
 ||dioprl.pl^
@@ -21,3 +21,16 @@
 ||boawgr.pl^
 ||chefs-kitchen.co.uk^
 ||johncornell.com^
+####
+||ads.roku.com^
+||cloudservices.roku.com^
+||logs.roku.com^
+####
+||.mov^ # SN-982
+||.zip^ # SN-982
+####
+||betorspin.com^
+||centrum24-pl.es^
+||dnbrs.pl^
+||northlightpictures.ca^
+||wwwcentrum24-pl.es^
