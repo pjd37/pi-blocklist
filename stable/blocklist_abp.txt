@@ -1,8 +1,8 @@
 ########################################
-# Last Updated: 2024-05-25 02:23 UTC
+# Last Updated: 2024-11-05 18:129 UTC
 ########################################
 # Name: Custom Block List
-# Last Updated: 2024-09-15
+# Last Updated: 2024-11-05
 ########################################
 ||btntls.pl^
 ||dioprl.pl^
@@ -26,11 +26,11 @@
 ||cloudservices.roku.com^
 ||logs.roku.com^
 ####
-||.mov^ # SN-982
-||.zip^ # SN-982
-####
 ||betorspin.com^
 ||centrum24-pl.es^
 ||dnbrs.pl^
 ||northlightpictures.ca^
 ||wwwcentrum24-pl.es^
+####
+||loftx.pl^
+||notvps.pl^
