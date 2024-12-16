@@ -1,8 +1,8 @@
 ########################################
-# Last Updated: 2024-11-05 18:129 UTC
+# Last Updated: 2024-12-05 23:56 UTC
 ########################################
 # Name: Custom Block List
-# Last Updated: 2024-11-05
+# Last Updated: 2024-12-05
 ########################################
 ||btntls.pl^
 ||dioprl.pl^
@@ -34,3 +34,21 @@
 ####
 ||loftx.pl^
 ||notvps.pl^
+####
+||4lr.fun^
+||animalsaidz.com^
+||animalsdepo.com^
+||buzzshowcase.com^
+||cfolks.pl^
+||choyoga.com^
+||disnnplus.click^
+||disnnplus.fun^
+||displus.online^
+||dsxnpls.one^
+||flk-ipfs.xyz^
+||gadgetrevolutions.com^
+||plus-dis.fun^
+||tocdefd.com^
+||trdechat.top^
+||ximprrove.top^
+||zont16.com^
