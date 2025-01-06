@@ -1,8 +1,8 @@
 ########################################
-# Last Updated: 2024-12-05 23:56 UTC
+# Last Updated: 2024-12-16 22:34 UTC
 ########################################
 # Name: Custom Block List
-# Last Updated: 2024-12-05
+# Last Updated: 2024-12-16
 ########################################
 ||btntls.pl^
 ||dioprl.pl^
@@ -52,3 +52,18 @@
 ||trdechat.top^
 ||ximprrove.top^
 ||zont16.com^
+####
+||clo.footprintdns.com^
+||groovinews.com^
+||guesswhatnews.com^
+||imml.top^
+||landnob.com^
+||landofm.com^
+||landovn.com^
+||landurt.com^
+||lookinews.com^
+||luronews.com^
+||net.daraz.com^
+||netlify.app^
+||shockynews.com^
+||tggame.xyz^
