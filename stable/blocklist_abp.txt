@@ -1,8 +1,8 @@
 ########################################
-# Last Updated: 2024-12-16 22:34 UTC
+# Last Updated: 2025-01-20 18:48 UTC
 ########################################
 # Name: Custom Block List
-# Last Updated: 2024-12-16
+# Last Updated: 2025-01-20
 ########################################
 ||btntls.pl^
 ||dioprl.pl^
@@ -67,3 +67,21 @@
 ||netlify.app^
 ||shockynews.com^
 ||tggame.xyz^
+####
+||allegro.pl^
+||allegrolokalnie.pl^
+||big-shop.ge^
+||dostawa24.life^
+||dostawa25.life^
+||glitch.me^
+||groupsorlink.com^
+||ipfs.flk-ipfs.xyz^
+||metplxx.com^
+||olx.pl^
+||pl-zplt.info^
+||r2.dev^
+||techblize.com^
+||techdeny.com^
+||techgazy.com^
+||techgliz.com^
+
