@@ -26,6 +26,7 @@
 ||clo.footprintdns.com^
 ||cloudservices.roku.com^
 ||clustercubes.com^
+||daraz.com^
 ||dermfeed.com^
 ||dioprl.pl^
 ||disnnplus.click^
@@ -77,7 +78,6 @@
 ||r2.dev^
 ||reporo.net^
 ||rookinews.com^
-||securepayments*.com^
 ||shockynews.com^
 ||techblize.com^
 ||techdeny.com^
