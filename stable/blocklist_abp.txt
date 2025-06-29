@@ -1,19 +1,22 @@
 ########################################
-# Last Updated: 2025-04-15
+# Last Updated: 2025-05-25
 ########################################
 # Name: Custom Block List
-# Last Updated: 2025-04-15
+# Last Updated: 2025-05-25
 ########################################
 ||4lr.fun^
 ||5937.www3centrum24-pl.es^
 ||5980.www2centrum24-pl.es^
+||7na6ft8m84a2u3vn74.com^
+||a7kf93lwrtqz2ebmyx6n.com^
 ||ads.roku.com^
-||allegrolokalnie.pl^
-||allegro.pl^
+||allegrolokalnie
+||allegro.pl
 ||animalsaidz.com^
 ||animalsdepo.com^
 ||appnexus.com^
 ||bakerstreetfinance.tv^
+||bcpl9m7tbz955en94bnn.com^
 ||betorspin.com^
 ||big-shop.ge^
 ||boawgr.pl^
@@ -23,9 +26,11 @@
 ||cfolks.pl^
 ||chefs-kitchen.co.uk^
 ||choyoga.com^
+||cleverapps.io^
 ||clo.footprintdns.com^
 ||cloudservices.roku.com^
 ||clustercubes.com^
+||controlhub.es^
 ||daraz.com^
 ||dermfeed.com^
 ||dioprl.pl^
@@ -45,9 +50,11 @@
 ||groupsorlink.com^
 ||guesswhatnews.com^
 ||imml.top^
+||ipfs.dweb.link^
 ||ipfs.flk-ipfs.xyz^
 ||jagodabaran.pl^
 ||johncornell.com^
+||k97xfemc3kc7vz647ynk.com^
 ||landnob.com^
 ||landofm.com^
 ||landovn.com^
@@ -85,6 +92,7 @@
 ||techgliz.com^
 ||tegronews.com^
 ||tggame.xyz^
+||tivuwici.com^
 ||tocdefd.com^
 ||trdechat.top^
 ||tt.omtrdc.net^
