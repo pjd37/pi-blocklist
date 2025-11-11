@@ -1,8 +1,8 @@
 ########################################
-# Last Updated: 2025-05-25
+# Last Updated: 2025-06-29
 ########################################
 # Name: Custom Block List
-# Last Updated: 2025-05-25
+# Last Updated: 2025-06-29
 ########################################
 ||4lr.fun^
 ||5937.www3centrum24-pl.es^
@@ -10,8 +10,7 @@
 ||7na6ft8m84a2u3vn74.com^
 ||a7kf93lwrtqz2ebmyx6n.com^
 ||ads.roku.com^
-||allegrolokalnie
-||allegro.pl
+||allegro.pl^
 ||animalsaidz.com^
 ||animalsdepo.com^
 ||appnexus.com^
@@ -55,6 +54,7 @@
 ||jagodabaran.pl^
 ||johncornell.com^
 ||k97xfemc3kc7vz647ynk.com^
+||konto-informacji.sbs^
 ||landnob.com^
 ||landofm.com^
 ||landovn.com^
@@ -68,8 +68,10 @@
 ||metplxx.com^
 ||mistrox.pl^
 ||mktoresp.com^
+||mystrikingly.com^
 ||net.daraz.com^
 ||netlify.app^
+||nf-konto.sbs^
 ||northlightpictures.ca^
 ||notvps.pl^
 ||nutops.pl^
@@ -79,6 +81,46 @@
 ||platu2.pl^
 ||pltvs.pl^
 ||plus-dis.fun^
+||pl-conformation101.shop^
+||pl-conformation102.shop^
+||pl-conformation103.shop^
+||pl-conformation104.shop^
+||pl-conformation105.shop^
+||pl-conformation106.shop^
+||pl-conformation107.shop^
+||pl-conformation108.shop^
+||pl-conformation109.shop^
+||pl-conformation110.shop^
+||pl-conformation212.shop^
+||pl-conformation213.shop^
+||pl-conformation214.shop^
+||pl-conformation215.shop^
+||pl-conformation216.shop^
+||pl-conformation58.shop^
+||pl-conformation63.shop^
+||pl-conformation68.shop^
+||pl-conformation77.shop^
+||pl-conformation78.shop^
+||pl-conformation79.shop^
+||pl-conformation80.shop^
+||pl-conformation81.shop^
+||pl-conformation82.shop^
+||pl-conformation83.shop^
+||pl-conformation84.shop^
+||pl-conformation85.shop^
+||pl-conformation86.shop^
+||pl-conformation87.shop^
+||pl-conformation88.shop^
+||pl-conformation89.shop^
+||pl-conformation91.shop^
+||pl-conformation92.shop^
+||pl-conformation93.shop^
+||pl-conformation94.shop^
+||pl-conformation95.shop^
+||pl-conformation96.shop^
+||pl-conformation97.shop^
+||pl-conformation98.shop^
+||pl-conformation99.shop^
 ||pl-zplt.info^
 ||powaznisa.pl^
 ||puoli.pl^
@@ -86,6 +128,7 @@
 ||reporo.net^
 ||rookinews.com^
 ||shockynews.com^
+||southsideblackancestry.com^
 ||techblize.com^
 ||techdeny.com^
 ||techgazy.com^
