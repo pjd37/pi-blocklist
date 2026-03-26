@@ -1,19 +1,30 @@
 ########################################
-# Last Updated: 2025-06-29
+# Last Updated: 2025-11-11
 ########################################
 # Name: Custom Block List
-# Last Updated: 2025-06-29
+# Last Updated: 2025-11-11
 ########################################
+||11902830.xyz^
+||15300934.xyz^
+||18915487.xyz^
+||1ittleriver.ru^
+||27049894.xyz^
+||3918548.xyz^
+||4918548.xyz^
 ||4lr.fun^
+||5918548.xyz^
 ||5937.www3centrum24-pl.es^
 ||5980.www2centrum24-pl.es^
 ||7na6ft8m84a2u3vn74.com^
+||97576875.xyz^
+||98093883.xyz^
 ||a7kf93lwrtqz2ebmyx6n.com^
 ||ads.roku.com^
 ||allegro.pl^
 ||animalsaidz.com^
 ||animalsdepo.com^
 ||appnexus.com^
+||autograalmann.de^
 ||bakerstreetfinance.tv^
 ||bcpl9m7tbz955en94bnn.com^
 ||betorspin.com^
@@ -23,6 +34,7 @@
 ||buzzshowcase.com^
 ||centrum24-pl.es^
 ||cfolks.pl^
+||cgty8.ru^
 ||chefs-kitchen.co.uk^
 ||choyoga.com^
 ||cleverapps.io^
@@ -30,6 +42,7 @@
 ||cloudservices.roku.com^
 ||clustercubes.com^
 ||controlhub.es^
+||d44yy.ru^
 ||daraz.com^
 ||dermfeed.com^
 ||dioprl.pl^
@@ -41,6 +54,7 @@
 ||dostawa25.life^
 ||dsxnpls.one^
 ||engine.mobileapptracking.com^
+||fl-0-wbud.ru^
 ||flk-ipfs.xyz^
 ||fp.measure.office.com^
 ||gadgetrevolutions.com^
@@ -52,9 +66,11 @@
 ||ipfs.dweb.link^
 ||ipfs.flk-ipfs.xyz^
 ||jagodabaran.pl^
+||jhycbhe.es^
 ||johncornell.com^
 ||k97xfemc3kc7vz647ynk.com^
 ||konto-informacji.sbs^
+||kyhely.ru^
 ||landnob.com^
 ||landofm.com^
 ||landovn.com^
@@ -62,8 +78,10 @@
 ||loftx.pl^
 ||logs.roku.com^
 ||lookinews.com^
+||loophole.site^
 ||luronews.com^
 ||marcoprzy.net.pl^
+||mcyz4.ru^
 ||measurementapi.com^
 ||metplxx.com^
 ||mistrox.pl^
@@ -79,8 +97,6 @@
 ||pawodnsa.pl^
 ||peterjanicki.pl^
 ||platu2.pl^
-||pltvs.pl^
-||plus-dis.fun^
 ||pl-conformation101.shop^
 ||pl-conformation102.shop^
 ||pl-conformation103.shop^
@@ -121,6 +137,8 @@
 ||pl-conformation97.shop^
 ||pl-conformation98.shop^
 ||pl-conformation99.shop^
+||pltvs.pl^
+||plus-dis.fun^
 ||pl-zplt.info^
 ||powaznisa.pl^
 ||puoli.pl^
@@ -129,6 +147,7 @@
 ||rookinews.com^
 ||shockynews.com^
 ||southsideblackancestry.com^
+||sxuj-7.ru^
 ||techblize.com^
 ||techdeny.com^
 ||techgazy.com^
@@ -139,10 +158,17 @@
 ||tocdefd.com^
 ||trdechat.top^
 ||tt.omtrdc.net^
+||u84t.ru^
 ||vercel.app^
 ||vistvx.pl^
 ||voltss.pl^
+||walrus.site^
 ||webwave.dev^
+||wi7e.ru^
 ||wwwcentrum24-pl.es^
+||wysylkisprzedazowe.life^
+||wysylkisprzedazowe.live^
+||wysylkizagratis.shop^
 ||ximprrove.top^
+||zo8k.ru^
 ||zont16.com^
