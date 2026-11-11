@@ -116,6 +116,12 @@
 # Name: Custom Block List
 # Last Updated: 2024-08-28
 ########################################
+
+	
+				
+					
+
+ 					
 0-0-0-0-0-0-0-0-0-0-0-0-0-59-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 000000.partner-pay.dcloud.net.daraz.com
 0000013apropmdeizy9vjf.net.daraz.com
@@ -367834,7 +367840,6 @@ static.clickpapa.com
 static.clicktorrent.info
 static.clicktripz.com
 static.clicktripz.com
-static..clients.your-server.de
 static.clmbtech.com
 static.cloudflareinsights.com
 static-c.ns.emailvision.net.daraz.com
