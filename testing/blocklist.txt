@@ -737222,7 +737222,6 @@ umami.spillover.com
 umami.spokenly.app
 umami.sportarchive.io
 umami.squishypaper.com
-umami..sslip.io
 umami.starliz.com
 umami-statistik-seven.vercel.app
 umami.statscore.com
